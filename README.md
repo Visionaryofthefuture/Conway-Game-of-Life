@@ -48,7 +48,7 @@ Install dependencies:
 
 ```bash
 pip install pygame
-
+```
 Run using the folowing command 
 ```bash
 python main.py
